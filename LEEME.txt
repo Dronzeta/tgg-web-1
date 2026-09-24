@@ -1,0 +1,29 @@
+REDISEÑO WEB 2
+
+Abrí index.html para recorrer la portada y programacion.html para el catálogo.
+
+Incluye:
+- Diseño oscuro en azul marino con acentos azul eléctrico y acero, basado en el mediakit aportado.
+- Imagen abstracta original inspirada en video, streaming y creación audiovisual.
+- Mapa regional interactivo con soporte de teclado.
+- Logos con ampliación según la proximidad del mouse.
+- Los 36 programas, con búsqueda, filtros por canal y fichas ampliadas.
+- Servicios desplegables y contacto comercial activo.
+- Adaptación a celular y respeto por movimiento reducido.
+
+Contacto: comercial@neomediatv.com.ar
+El botón de email abre la aplicación de correo del visitante.
+
+El logo original se muestra sin fondo mediante una máscara SVG transparente que conserva las letras blancas dentro de la cápsula azul. Sus colores y proporciones se mantienen. Ambos logos enlazan al inicio.
+La imagen abstracta de portada recibe un tratamiento azul desde los estilos del sitio.
+Los horarios y datos comerciales se conservaron de los archivos aportados.
+Las tipografías se cargan desde Google Fonts si hay conexión; hay alternativas locales.
+Las imágenes, los estilos y los scripts del sitio se incluyen en esta carpeta.
+
+PORTADA
+Imagen original creada con image_gen integrado, sin programas, personas ni equipos reales.
+Archivo: assets/hero-medios-abstractos.jpg
+Prompt: composición abstracta 3D de marcos de video translúcidos horizontales y verticales, secuencias de fotogramas vacíos y una señal luminosa discreta; vidrio ahumado, reflejos ciruela, azul profundo y cobre sobre negro. Formas a la derecha y espacio oscuro a la izquierda. Sin textos, logos, programas, cámaras, televisores físicos, personas, globos ni redes de nodos.
+
+VERIFICACIÓN
+Contenido y datos cotejados contra la versión anterior; enlaces internos y archivos verificados. La apertura local del navegador fue bloqueada por su política, por lo que la comprobación final de pantallas reales queda pendiente.
